@@ -2,8 +2,8 @@
 const USE_BACKEND = false;
 
 // TADY si každý student nastaví svoje údaje (až bude backend):
-const BACKEND_URL = "https://lkostak.onrender.com/chat";
-const STUDENT_ID = "Kostak_Ladislav_4A";
+const BACKEND_URL = "https://prv-sifi.onrender.com/chat";
+const STUDENT_ID = "Roman_Prodan_4A";
 
 const form = document.getElementById("question-form");
 const textarea = document.getElementById("question");
